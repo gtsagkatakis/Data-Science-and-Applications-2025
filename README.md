@@ -10,3 +10,4 @@ The course will cover fundamental and advanced topics in data science, including
 
 ---
 ## HW
+[Week 1](./HANDS_ON_1.ipynb)
