@@ -7,6 +7,7 @@ The course will cover fundamental and advanced topics in data science, including
 ---
 ## Hands-on
 [Week 1](./485[2025]_Week_1.ipynb)
+
 [Week 2](./485[2025]_Week_2.ipynb)
 
 
