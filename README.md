@@ -18,6 +18,8 @@ The course will cover fundamental and advanced topics in data science, including
 
 [Week 7](./485[2025]_Week_7.ipynb)
 
+[Week 8](./485[2025]_Week_8.ipynb)
+
 
 ---
 ## HW
