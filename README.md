@@ -36,3 +36,4 @@ The course will cover fundamental and advanced topics in data science, including
 
 [HW5](./485[2025]_HW5.ipynb)
 
+[HW6](./485[2025]_HW6.ipynb)
