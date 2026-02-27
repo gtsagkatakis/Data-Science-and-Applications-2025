@@ -6,21 +6,21 @@ The course will cover fundamental and advanced topics in data science, including
 
 ---
 ## Hands-on
-[Week 1](./485[2025]_Week_1.ipynb)
+[Week 1](./Hands-on/485[2025]_Week_1.ipynb)
 
-[Week 2](./485[2025]_Week_2.ipynb)
+[Week 2](./Hands-on/485[2025]_Week_2.ipynb)
 
-[Week 3](./485[2025]_Week_3.ipynb)
+[Week 3](./Hands-on/485[2025]_Week_3.ipynb)
 
-[Week 5](./485[2025]_Week_5.ipynb)
+[Week 5](./Hands-on/485[2025]_Week_5.ipynb)
 
-[Week 6](./485[2025]_Week_6.ipynb)
+[Week 6](./Hands-on/485[2025]_Week_6.ipynb)
 
-[Week 7](./485[2025]_Week_7.ipynb)
+[Week 7](./Hands-on/485[2025]_Week_7.ipynb)
 
-[Week 8](./485[2025]_Week_8.ipynb)
+[Week 8](./Hands-on/485[2025]_Week_8.ipynb)
 
-[Week 9](./485[2025]_Week_9.ipynb)
+[Week 9](./Hands-on/485[2025]_Week_9.ipynb)
 
 
 
